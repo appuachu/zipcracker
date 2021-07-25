@@ -6,4 +6,4 @@ $ git clone https://github.com/appuachu/zipcracker.git<br>
 $ cd zipcracker<br>
 $ chmod +x *<br>
 $ bash install.sh<br>
-$ bash 
+$ bash zipcrack.sh
