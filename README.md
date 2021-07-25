@@ -1,5 +1,5 @@
 # zipcracker
-It is simple shell script command to crack the password of an zipfile.
+It is simple shell script command to crack the password of a zipfile.
 
 <h1>Installation</h1>
 $ git clone https://github.com/appuachu/zipcracker.git<br>
